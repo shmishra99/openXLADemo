@@ -1,2 +1,2 @@
 # openXLADemo
-Creating private repo for openXLA demo.
+Creating private repository for openxla demo.
